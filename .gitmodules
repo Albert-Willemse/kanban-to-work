@@ -1,0 +1,3 @@
+[submodule "modular-ui"]
+	path = modular-ui
+	url = https://github.com/bccsa/modular-ui.git
